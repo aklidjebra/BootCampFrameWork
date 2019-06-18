@@ -15,7 +15,11 @@
     <test name=" cigna Home">
         <classes>
 
-            <class name=""/>
+<!--            <class name="cignaPackageTest.CignaGlobalProductTest"/>-->
+<!--            <class name="cignaPackageTest.CingnaHealthPageTest"/>-->
+            <class name="cignaPackageTest.CignaNaVigationTabPageTest"/>
+
+
 
         </classes>
     </test>

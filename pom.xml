@@ -15,7 +15,7 @@
         <module>Citibank</module>
         <module>Generic</module>
         <module>Cnn</module>
-        <module>Generic2</module>
+        <module>NewYorkPost</module>
     </modules>
     <dependencyManagement>
         <dependencies>
